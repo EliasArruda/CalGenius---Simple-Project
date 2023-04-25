@@ -17,7 +17,7 @@ CalcGenius
 </h2>
 
 <img 
-src="../CalcGeniusPerfect/ScreenShot/Calculadora.png" 
+src="./ScreenShot/Calculadora.png" 
 alt="Erro"
 style="
 margin-bottom: 30px;
