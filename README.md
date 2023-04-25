@@ -1,5 +1,18 @@
-# Calc-Genius
+# Feito com Tauri é ReactJS com Typescript
 
+Código no Terminal para Iniciar a Aplicação Corretamente
+
+```bash
+yarn
+yarn tauri dev
+```
+
+Transforme em Executável, Inserindo Estes Comandos no Terminal
+```bash
+yarn tauri build
+```
+
+# Calc-Genius
 Uma Calculadora Simples e Fácil de Manipular com Tauri e ReactJS
 
 <div
@@ -26,9 +39,7 @@ margin-bottom: 30px;
 <p
 align="center"
 >
-Lucas é um estudante universitário de engenharia que está sempre envolvido em cálculos complexos para suas disciplinas. Ele fica frustrado com as calculadoras online disponíveis, que são cheias de recursos desnecessários e difíceis de usar.
-
-Em busca de uma solução mais simples, Lucas descobre o "Calc-Genius". Uma aplicação que de fato resolve todos os 
+Lucas é um estudante universitário de engenharia que está sempre envolvido em cálculos complexos para suas disciplinas. Ele fica frustrado com as calculadoras online disponíveis, que são cheias de recursos desnecessários e difíceis de usar. Em busca de uma solução mais simples, Lucas descobre o "Calc-Genius". Uma aplicação que de fato resolve todos os 
 seus problemas
 </p>
 
